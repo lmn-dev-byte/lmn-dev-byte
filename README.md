@@ -1,32 +1,60 @@
-# Hi 👋, I'm Lakshminarayana
+# Hi 👋, I'm Lakshminarayana M N
 
-## 💻 About Me
-- Web Developer
-- Learning React & Full Stack Development
-- Building Real Projects Daily
-- Passionate about Web Technologies
+### 💻 Web Developer | React Learner | Python Enthusiast
 
-## 🚀 Skills
+---
+
+## 🚀 About Me
+
+- 🌱 Learning Full Stack Development
+- 💻 Building Real-World Web Applications
+- 📚 Improving My Skills Every Day
+- 🎯 Goal: Become a Professional Software Developer
+
+---
+
+## 🛠️ Skills
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - React
-- Python
-- Git & GitHub
 
-## 📂 Projects
+### Backend
+- Python
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
 
 ### 🐾 Pet Adoption System
 A platform for pet adoption and pet management.
 
 ### 📱 Mobile Shop Website
-Responsive mobile store website built using JavaScript.
+Responsive website for a mobile store.
 
 ### 💰 Expense Tracker
-Track income, expenses and savings efficiently.
+Track income and expenses efficiently.
 
-## 🎯 Current Goal
-Become a Professional Full Stack Developer
+---
 
-## 📫 Connect With Me
-Email: lucky990aa@gmail.com
+## 📈 Current Focus
+
+- React Development
+- Full Stack Development
+- Git & GitHub
+- Building Portfolio Projects
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/lucky-vitb
+
+⭐ Thanks for visiting my profile!
